@@ -1,0 +1,11 @@
+.category {
+  width: calc(100% / 7);
+}
+.categoryImage {
+  height: 200px;
+  width: 100%;
+}
+
+.categoryName {
+  font-size: 0.9rem;
+}

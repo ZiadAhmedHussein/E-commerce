@@ -1,0 +1,14 @@
+.productCategoryName {
+  font-size: 0.9rem;
+}
+
+.productName {
+  font-size: 1.05rem;
+  cursor: pointer;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.customToolTip {
+  background-color: black;
+  color: white;
+}
